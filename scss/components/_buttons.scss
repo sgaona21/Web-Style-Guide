@@ -13,7 +13,7 @@
   }
   
   .default {
-    background-color: #51ddfc;
+    background-color: $link-color;
   }
   
   .error {
@@ -21,7 +21,7 @@
   }
   
   .info {
-    background-color: #927bc1;
+    background-color: $info-color;
   }
   
   .success {
@@ -29,6 +29,6 @@
   }
   
   .warning {
-    background-color: #fd7856;
+    background-color: $warning-color;
   }
   
